@@ -161,6 +161,7 @@
     <Content Include="Views\Home\AsistenciaAIR.cshtml" />
     <Content Include="Views\Home\AsistenciaSesionAIR.cshtml" />
     <Content Include="Views\Home\Constancias.cshtml" />
+    <Content Include="Views\Home\ConstanciaAsambleista.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
